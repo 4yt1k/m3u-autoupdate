@@ -1,3 +1,4 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/m3u/k9v6.m3u
+https://php.946985.filegear-sg.me/jackTV.m3u
