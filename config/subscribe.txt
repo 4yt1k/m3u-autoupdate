@@ -1,4 +1,3 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
-https://live.tv.darwinchow.com/sub/02RTgqe8JqzbOaiNB4zzdS9mTNCOow?br_max=20480
+https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/m3u/k9v6.m3u
