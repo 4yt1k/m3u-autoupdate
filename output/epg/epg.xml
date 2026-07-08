@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260708071722 +0800">
+<tv date="20260708094028 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10344,11 +10344,8 @@
 	<programme channel="海南卫视" start="20260707232000 +0800" stop="20260708001500 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260708001500 +0800" stop="20260708010000 +0800">
+	<programme channel="海南卫视" start="20260708001800 +0800" stop="20260708010000 +0800">
 		<title lang="zh">凌晨剧场</title>
-	</programme>
-	<programme channel="海南卫视" start="20260708010000 +0800" stop="20260708070000 +0800">
-		<title lang="zh">停机检修</title>
 	</programme>
 	<programme channel="海南卫视" start="20260708010000 +0800" stop="20260708070000 +0800">
 		<title lang="zh">停机检修</title>
@@ -10358,6 +10355,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20260708070100 +0800" stop="20260708073300 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260708073300 +0800" stop="20260708180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20260708073300 +0800" stop="20260708180800 +0800">
 		<title lang="zh">阳光剧场</title>
@@ -10392,9 +10392,6 @@
 	<programme channel="海南卫视" start="20260709001500 +0800" stop="20260709023500 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260709001500 +0800" stop="20260709023500 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
 	<programme channel="海南卫视" start="20260709023500 +0800" stop="20260709030000 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
@@ -10421,6 +10418,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20260709070100 +0800" stop="20260709073300 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709073300 +0800" stop="20260709180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20260709073300 +0800" stop="20260709180800 +0800">
 		<title lang="zh">阳光剧场</title>
