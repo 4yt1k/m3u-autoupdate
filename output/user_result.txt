@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-09 04:13:16,rtmp://live.gxrb.com.cn/hls/a23$订阅源
+2026-07-09 05:33:55,rtmp://live.gxrb.com.cn/hls/a23$订阅源
 
 📡卫视频道,#genre#
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
