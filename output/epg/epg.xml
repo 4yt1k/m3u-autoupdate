@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260720011529 +0800">
+<tv date="20260720045513 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10167,6 +10167,399 @@
 	<channel id="CCTV-16">
 		<display-name lang="zh">CCTV-16</display-name>
 	</channel>
+	<programme channel="CCTV-16" start="20260714000500 +0800" stop="20260714013000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年欧洲乒乓球俱乐部冠军联赛 决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714013000 +0800" stop="20260714023000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 短道速滑比赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714023000 +0800" stop="20260714040000 +0800">
+		<title lang="zh">2026年世界女子冰壶锦标赛-2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714040000 +0800" stop="20260714053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 半决赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714053000 +0800" stop="20260714060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 越野滑雪男子10公里自由技术</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714060000 +0800" stop="20260714070000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 速度滑冰比赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714070000 +0800" stop="20260714090000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年尤伯杯羽毛球赛 半决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714090000 +0800" stop="20260714103000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/8决赛 巴拉圭队-法国队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714103000 +0800" stop="20260714120000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界乒乓球团体锦标赛 男团1/4决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714120000 +0800" stop="20260714122000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-45</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714122000 +0800" stop="20260714135000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/4决赛 挪威队-英格兰队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714135000 +0800" stop="20260714152000 +0800">
+		<title lang="zh">2026年世界男排联赛-波兰站 (中国队-德国队)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714152000 +0800" stop="20260714155000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年国际篮联三人篮球世界杯 女子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714155000 +0800" stop="20260714161000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-46</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714161000 +0800" stop="20260714173500 +0800">
+		<title lang="zh">2026年国际篮联U17世界杯-决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714173500 +0800" stop="20260714183500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-WTT美国大满贯2026 比赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714183500 +0800" stop="20260714195500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界女排联赛 中国香港站 中国队-多米尼加队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714195500 +0800" stop="20260714201500 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-47</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714201500 +0800" stop="20260714214000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 摩纳哥站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714214000 +0800" stop="20260714233500 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-男单半决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260714233500 +0800" stop="20260715000000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 总决赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715010000 +0800" stop="20260715013000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年射箭世界杯 中国站1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715013000 +0800" stop="20260715023000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 短道速滑比赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715023000 +0800" stop="20260715040000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界男子冰壶锦标赛 2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715040000 +0800" stop="20260715053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 半决赛3</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715053000 +0800" stop="20260715060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 高山滑雪男子大回转</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715060000 +0800" stop="20260715070000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 速度滑冰比赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715070000 +0800" stop="20260715090000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年汤姆斯杯羽毛球赛 决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715090000 +0800" stop="20260715103000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/8决赛 巴西队-挪威队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715103000 +0800" stop="20260715120000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界乒乓球团体锦标赛 女团半决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715120000 +0800" stop="20260715122000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-41</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715122000 +0800" stop="20260715135000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/4决赛 西班牙队-比利时队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715135000 +0800" stop="20260715152000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界男排联赛 临沂站 中国队-古巴队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715152000 +0800" stop="20260715155000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年射箭世界杯 西班牙站1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715155000 +0800" stop="20260715161000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-42</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715161000 +0800" stop="20260715173500 +0800">
+		<title lang="zh">2026年中国男篮热身赛-杭州站(中国队-荷兰队)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715173500 +0800" stop="20260715183500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-WTT美国大满贯2026 比赛3</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715183500 +0800" stop="20260715195500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界女排联赛 中国香港站 中国队-意大利队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715195500 +0800" stop="20260715201500 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-43</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715201500 +0800" stop="20260715214000 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-女单半决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715214000 +0800" stop="20260715230500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 巴黎站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260715230500 +0800" stop="20260716000000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 总决赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716003000 +0800" stop="20260716020000 +0800">
+		<title lang="zh">2026年世界女子冰壶锦标赛-3</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716020000 +0800" stop="20260716030000 +0800">
+		<title lang="zh">2026年国际体联蹦床世界杯-阿罗萨站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716030000 +0800" stop="20260716040000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子大跳台决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716040000 +0800" stop="20260716053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 半决赛4</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716053000 +0800" stop="20260716060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 高山滑雪女子滑降</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716060000 +0800" stop="20260716070000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 速度滑冰比赛3</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716070000 +0800" stop="20260716090000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年尤伯杯羽毛球赛 决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716090000 +0800" stop="20260716103000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/8决赛 墨西哥队-英格兰队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716103000 +0800" stop="20260716120000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界乒乓球团体锦标赛 男团半决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716120000 +0800" stop="20260716122000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-44</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716122000 +0800" stop="20260716134500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/4决赛 法国队-摩洛哥队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716134500 +0800" stop="20260716150500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界女排联赛 菲律宾站 日本队-意大利队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716150500 +0800" stop="20260716153500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年射箭世界杯 西班牙站2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716153500 +0800" stop="20260716155000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-45</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716155000 +0800" stop="20260716161000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-精彩一刻-2026年体操世界杯奥西耶克站 中国队获2金</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716161000 +0800" stop="20260716173500 +0800">
+		<title lang="zh">2026年中国男篮热身赛-杭州站(中国队-澳大利亚队)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716173500 +0800" stop="20260716183500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-WTT美国大满贯2026 比赛4</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716183500 +0800" stop="20260716195500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界女排联赛 中国香港站 中国队-乌克兰队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716195500 +0800" stop="20260716201500 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-46</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716201500 +0800" stop="20260716220500 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-男单决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716220500 +0800" stop="20260716233500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 多哈站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260716233500 +0800" stop="20260717000000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 总决赛3</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717010000 +0800" stop="20260717023000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界男子冰壶锦标赛 3</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717023000 +0800" stop="20260717030000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年国际篮联三人篮球世界杯 女子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717030000 +0800" stop="20260717040000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 单板滑雪男子坡面障碍技巧决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717040000 +0800" stop="20260717053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 半决赛5</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717053000 +0800" stop="20260717063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 北欧两项个人大跳台/10公里越野滑雪</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717063000 +0800" stop="20260717073000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 速度滑冰比赛4</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717073000 +0800" stop="20260717090000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界男排联赛 波兰站 中国队-阿根廷队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717090000 +0800" stop="20260717103000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/8决赛 葡萄牙队-西班牙队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717103000 +0800" stop="20260717120000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年欧洲乒乓球俱乐部冠军联赛 决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717120000 +0800" stop="20260717122000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-47</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717122000 +0800" stop="20260717134500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 半决赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717134500 +0800" stop="20260717141300 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 摩纳哥站 25分钟版</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717141300 +0800" stop="20260717154000 +0800">
+		<title lang="zh">2027年国际篮联世界杯预选赛-中国队-中国台北队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717154000 +0800" stop="20260717155800 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-36</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717155800 +0800" stop="20260717165500 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-女子单项决赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717165500 +0800" stop="20260717175500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-WTT美国大满贯2026 比赛5</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717175500 +0800" stop="20260717191000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界女排联赛 土耳其站 中国队-巴西队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717191000 +0800" stop="20260717193000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-37</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717193000 +0800" stop="20260717214500 +0800">
+		<title lang="zh">2026中国足球超级联赛-第19轮 北京国安-辽宁铁人楠波湾</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717214500 +0800" stop="20260717221500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年国际篮联三人篮球世界杯 男子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717221500 +0800" stop="20260717234000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 奥斯陆站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260717234000 +0800" stop="20260718000000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 总决赛4</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718010500 +0800" stop="20260718020500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子空中技巧决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718020500 +0800" stop="20260718033000 +0800">
+		<title lang="zh">2026年国际冰联男子冰球世界锦标赛-顶级组 半决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718033000 +0800" stop="20260718040000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 单板滑雪女子障碍追逐</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718040000 +0800" stop="20260718053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 半决赛6</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718053000 +0800" stop="20260718060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 滑雪登山女子,男子短距离</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718060000 +0800" stop="20260718070000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子U型场地技巧决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718070000 +0800" stop="20260718080000 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-女子单项决赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718080000 +0800" stop="20260718093000 +0800">
+		<title lang="zh">2026年中国男篮热身赛-杭州站(中国队-荷兰队)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718093000 +0800" stop="20260718110000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/8决赛 美国队-比利时队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718110000 +0800" stop="20260718120000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-WTT美国大满贯2026 比赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718120000 +0800" stop="20260718122000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-41</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718122000 +0800" stop="20260718142000 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-男单决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718142000 +0800" stop="20260718152000 +0800">
+		<title lang="zh">2026年世界艺术体操挑战杯系列赛-北京站(4K)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718152000 +0800" stop="20260718154000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-42</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718154000 +0800" stop="20260718171000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 摩纳哥站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718171000 +0800" stop="20260718183000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界女排联赛 菲律宾站 美国队-意大利队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718183000 +0800" stop="20260718185500 +0800">
+		<title lang="zh">2026年世界艺术体操挑战杯系列赛-北京站(4K)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718185500 +0800" stop="20260718191000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-荣耀十分-2026年艺术体操世界杯索菲亚站 中国队获集体5球单项金牌(4K)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718191000 +0800" stop="20260718193000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-43(4K)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718193000 +0800" stop="20260718214500 +0800">
+		<title lang="zh">2026中国足球超级联赛-第19轮 大连英博海发-山东泰山</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718214500 +0800" stop="20260718231000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界男排联赛 美国站 美国队-中国队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260718231000 +0800" stop="20260719000000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 总决赛5</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719003500 +0800" stop="20260719020000 +0800">
+		<title lang="zh">2026年国际冰联男子冰球世界锦标赛-顶级组 决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719020000 +0800" stop="20260719030000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 单板滑雪男子大跳台决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719030000 +0800" stop="20260719040000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年全国举重锦标赛 男子比赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719040000 +0800" stop="20260719052500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 半决赛7</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719052500 +0800" stop="20260719055500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 滑雪登山混合接力</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719055500 +0800" stop="20260719061500 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-44</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719061500 +0800" stop="20260719070500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 自由式滑雪男子障碍追逐决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719070500 +0800" stop="20260719080500 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-男子单项决赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719080500 +0800" stop="20260719093500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 尤金站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719093500 +0800" stop="20260719110000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/8决赛 瑞士队-哥伦比亚队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719110000 +0800" stop="20260719120000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-WTT美国大满贯2026 比赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719120000 +0800" stop="20260719122000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-45</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719122000 +0800" stop="20260719134500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界男排联赛 美国站 美国队-巴西队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719134500 +0800" stop="20260719141500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年射箭世界杯 西班牙站1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719141500 +0800" stop="20260719154000 +0800">
+		<title lang="zh">2026年中国男篮热身赛-杭州站(中国队-澳大利亚队)(4K)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719154000 +0800" stop="20260719160000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-46</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719160000 +0800" stop="20260719173000 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-女单决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719173000 +0800" stop="20260719183000 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-男子单项决赛2(4K)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719183000 +0800" stop="20260719200000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 半决赛 法国队-西班牙队(4K)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719200000 +0800" stop="20260719202000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-47</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719202000 +0800" stop="20260719214500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界乒乓球团体锦标赛 男团决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719214500 +0800" stop="20260719231000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界男排联赛 美国站 中国队-法国队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260719231000 +0800" stop="20260720000000 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-男单半决赛</title>
+	</programme>
 	<programme channel="CCTV-16" start="20260720010500 +0800" stop="20260720013500 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 巴黎站 25分钟版</title>
 	</programme>
@@ -10296,8 +10689,17 @@
 	<programme channel="CCTV-16" start="20260721215500 +0800" stop="20260721232000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2026年世界男排联赛 美国站 巴西队-波兰队</title>
 	</programme>
-	<programme channel="CCTV-16" start="20260721232000 +0800" stop="20260722001800 +0800">
+	<programme channel="CCTV-16" start="20260721232000 +0800" stop="20260722000000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-WTT美国大满贯2026 比赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260722000000 +0800" stop="20260722001800 +0800">
+		<title lang="zh">WTT美国大满贯2026比赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260722001800 +0800" stop="20260722011500 +0800">
+		<title lang="zh">2026年全国举重锦标赛女子比赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260722011500 +0800" stop="20260722021500 +0800">
+		<title lang="zh">米兰科尔蒂纳冬奥会单板滑雪女子</title>
 	</programme>
 	<channel id="海南卫视">
 		<display-name lang="zh">海南卫视</display-name>
