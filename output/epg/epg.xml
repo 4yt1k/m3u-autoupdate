@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261010204347 +0800">
+<tv date="20261010235350 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5439,6 +5439,9 @@
 	<programme channel="海南卫视" start="20261011010000 +0800" stop="20261011023000 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
+	<programme channel="海南卫视" start="20261011010000 +0800" stop="20261011023000 +0800">
+		<title lang="zh">凌晨剧场</title>
+	</programme>
 	<programme channel="海南卫视" start="20261011023000 +0800" stop="20261011032000 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
@@ -5467,9 +5470,6 @@
 		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20261011120100 +0800" stop="20261011130100 +0800">
-		<title lang="zh">2026海南高尔夫球公开赛</title>
-	</programme>
-	<programme channel="海南卫视" start="20261011130100 +0800" stop="20261011140100 +0800">
 		<title lang="zh">2026海南高尔夫球公开赛</title>
 	</programme>
 	<programme channel="海南卫视" start="20261011130100 +0800" stop="20261011140100 +0800">
@@ -5523,6 +5523,9 @@
 	<programme channel="海南卫视" start="20261012010000 +0800" stop="20261012023500 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
+	<programme channel="海南卫视" start="20261012010000 +0800" stop="20261012023500 +0800">
+		<title lang="zh">凌晨剧场</title>
+	</programme>
 	<programme channel="海南卫视" start="20261012023500 +0800" stop="20261012030500 +0800">
 		<title lang="zh">视界</title>
 	</programme>
@@ -5549,5 +5552,38 @@
 	</programme>
 	<programme channel="海南卫视" start="20261012073300 +0800" stop="20261012180800 +0800">
 		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012180800 +0800" stop="20261012182200 +0800">
+		<title lang="zh">特别节目</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012182200 +0800" stop="20261012183000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012183000 +0800" stop="20261012190000 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012190000 +0800" stop="20261012193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012193000 +0800" stop="20261012195500 +0800">
+		<title lang="zh">潮起海之南</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012195500 +0800" stop="20261012202500 +0800">
+		<title lang="zh">视界</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012202500 +0800" stop="20261012211300 +0800">
+		<title lang="zh">特别节目</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012211300 +0800" stop="20261012215500 +0800">
+		<title lang="zh">金椰剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012215500 +0800" stop="20261012222500 +0800">
+		<title lang="zh">遵义三日</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012222500 +0800" stop="20261012232000 +0800">
+		<title lang="zh">星光剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012232000 +0800" stop="20261013001500 +0800">
+		<title lang="zh">卫视高尔夫</title>
 	</programme>
 </tv>
