@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261108090451 +0800">
+<tv date="20261108160113 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -22044,19 +22044,16 @@
 	<programme channel="宁夏卫视" start="20261108070100 +0800" stop="20261108073000 +0800">
 		<title lang="zh">宁夏新闻联播</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261108073000 +0800" stop="20261108075200 +0800">
+	<programme channel="宁夏卫视" start="20261108073000 +0800" stop="20261108081000 +0800">
 		<title lang="zh">新闻眼</title>
-	</programme>
-	<programme channel="宁夏卫视" start="20261108075200 +0800" stop="20261108081000 +0800">
-		<title lang="zh">这里是宁夏</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20261108081000 +0800" stop="20261108082200 +0800">
 		<title lang="zh">国宝时刻(1)</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261108082200 +0800" stop="20261108091000 +0800">
+	<programme channel="宁夏卫视" start="20261108082200 +0800" stop="20261108091100 +0800">
 		<title lang="zh">父辈的荣耀(11)</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261108091000 +0800" stop="20261108095900 +0800">
+	<programme channel="宁夏卫视" start="20261108091100 +0800" stop="20261108095900 +0800">
 		<title lang="zh">父辈的荣耀(12)</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20261108095900 +0800" stop="20261108104700 +0800">
