@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261118083606 +0800">
+<tv date="20261118174402 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -21999,16 +21999,16 @@
 	<programme channel="宁夏卫视" start="20261117233600 +0800" stop="20261118000000 +0800">
 		<title lang="zh">父母爱情(14)</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118000000 +0800" stop="20261118002300 +0800">
+	<programme channel="宁夏卫视" start="20261118000000 +0800" stop="20261118002400 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118002300 +0800" stop="20261118012300 +0800">
+	<programme channel="宁夏卫视" start="20261118002400 +0800" stop="20261118012400 +0800">
 		<title lang="zh">科技篇侯德榜</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118012300 +0800" stop="20261118020900 +0800">
+	<programme channel="宁夏卫视" start="20261118012400 +0800" stop="20261118020800 +0800">
 		<title lang="zh">破晓东方(4)</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118020900 +0800" stop="20261118025500 +0800">
+	<programme channel="宁夏卫视" start="20261118020800 +0800" stop="20261118025500 +0800">
 		<title lang="zh">破晓东方(5)</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20261118025500 +0800" stop="20261118041700 +0800">
@@ -22029,19 +22029,16 @@
 	<programme channel="宁夏卫视" start="20261118070100 +0800" stop="20261118073000 +0800">
 		<title lang="zh">宁夏新闻联播</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118073000 +0800" stop="20261118075200 +0800">
+	<programme channel="宁夏卫视" start="20261118073000 +0800" stop="20261118081000 +0800">
 		<title lang="zh">新闻早点到</title>
-	</programme>
-	<programme channel="宁夏卫视" start="20261118075200 +0800" stop="20261118081000 +0800">
-		<title lang="zh">家园(3)</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20261118081000 +0800" stop="20261118082200 +0800">
 		<title lang="zh">国宝时刻(1)</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118082200 +0800" stop="20261118090800 +0800">
+	<programme channel="宁夏卫视" start="20261118082200 +0800" stop="20261118090900 +0800">
 		<title lang="zh">梦中的那片海(28)</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261118090800 +0800" stop="20261118095500 +0800">
+	<programme channel="宁夏卫视" start="20261118090900 +0800" stop="20261118095500 +0800">
 		<title lang="zh">梦中的那片海(29)</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20261118095500 +0800" stop="20261118104100 +0800">
